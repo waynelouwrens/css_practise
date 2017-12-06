@@ -1,0 +1,25 @@
+h1 {
+  color: rgba(255,255,255,1);
+
+  /*BORDERS
+  - width
+  - color
+  - style*/
+
+  /*border-color: purple;
+  border-width: 5px;
+  border-style: solid;*/
+
+  border: 8px solid purple
+  }
+
+h4 {
+  background: rgb(255,100,80);
+}
+
+body {
+  /*background: url(https://files.vladstudio.com/joy/insiderainbow_color4/wall/vladstudio_insiderainbow_color4_800x480.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;*/
+  background: pink;
+}
