@@ -1,0 +1,68 @@
+/*font family*/
+
+h1 {
+  font-family: "Permanent Marker";
+}
+
+p {
+  font-family: "Handlee";
+}
+
+/*font-size*/
+
+/*px is just your usual px size as used in a word processor or such*/
+
+/*em proportionally increases the size based on its parents size
+eg: 2.0em is twice the size of the parents font-size */
+
+body {
+  font-size: 10px;
+}
+
+h1 {
+  font-size: 5.0em;
+}
+
+span {
+  font-size: 2.0em;
+}
+
+p {
+  font-size: 2.0em;
+}
+
+/*font-weight*/
+
+/*Bold or Lightweight - how thick the lines are*/
+/*100 - 800*/
+
+p {
+  font-weight: normal;
+}
+
+/*line-height*/
+
+p {
+  line-height: 1.5;
+}
+
+/*text-align*/
+
+h1 {
+  text-align: right;
+}
+
+p {
+  text-align: center;
+}
+
+/*text decoration*/
+/*underline or strikethrough*/
+
+p {
+  text-decoration: underline;
+}
+
+h1 {
+  text-decoration: line-through;
+}
